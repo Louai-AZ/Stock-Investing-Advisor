@@ -7,6 +7,7 @@ list_of_files = [
     
     "deploy/Dockerfile"  ,
     "streaming_pipeline/__init__.py"  ,
+    "streaming_pipeline/constants.py"  ,
     "tools/search.py"  ,
     
     ".env"  ,
