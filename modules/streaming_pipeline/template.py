@@ -12,7 +12,6 @@ list_of_files = [
     
     ".env"  ,
     "Makefile"  ,
-    "poetry.lock"  ,
     "pyproject.toml"  ,
     "logging.yaml"  ,
     ".dockerignore"
